@@ -26,11 +26,4 @@ I enjoy building things, learning new technologies, and improving my problem-sol
 
 ---
 
-## 🎯 Goals
-- Build my first mobile app 📱
-- Contribute to meaningful projects
-- Keep learning and growing as a developer
-
----
-
 ⭐ *Thanks for visiting my profile!*
