@@ -2,16 +2,10 @@
 
 🎓 I'm a **Bachelor Computer Science student**  
 💻 I love **programming**, **games**, and **sports**  
-📱 Currently interested in **mobile development** and actively seeking opportunities to learn it **from scratch**
+📱 Currently interested in **mobile development**  
+🌱 Actively learning mobile development **from scratch** and strengthening my programming fundamentals
 
 I enjoy building things, learning new technologies, and improving my problem-solving skills step by step.
-
----
-
-## 🌱 What I'm Currently Learning
-- Mobile development fundamentals
-- Strengthening core programming concepts
-- Exploring real-world project workflows
 
 ---
 
