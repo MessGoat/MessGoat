@@ -3,7 +3,7 @@
 🎓 I'm a **Bachelor Computer Science student**  
 💻 I love **programming**, **games**, and **sports**  
 📱 Currently interested in **mobile development**  
-🌱 Actively learning mobile development **from scratch** and strengthening my programming fundamentals
+🌱 Actively learning mobile development and strengthening my programming fundamentals
 
 I enjoy building things, learning new technologies, and improving my problem-solving skills step by step.
 
